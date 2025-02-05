@@ -27,6 +27,6 @@
 
 ## Installation
 
-1. Clone this repository:
+Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/SampleApp-SwiftUI.git
+   git clone https://github.com/mfa01/SampleApp-SwiftUI.git
