@@ -10,6 +10,7 @@
 - **Error Handling**: Displays error messages when network issues occur, with retry options.
 - **UI Tests**: Automated UI tests to ensure the search functionality works as expected.
 - **Unit Tests**: Automated Unit tests to ensure the search functionality works as expected.
+- **API**: https://dummyjson.com/docs
 
 ## Screenshots
 
