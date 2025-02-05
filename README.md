@@ -22,9 +22,14 @@
 ### 3. **Sort Options**
 ![Sort Options](./assets/sort_options.png)
 
-### 3. **Sort Options**
+### 3. **Details Screen**
 ![Details Screen](./assets/details_screen.png)
 
+### 4. **Unit Tests and UI Tests**
+![Unit Tests](./assets/unittests.png)
+
+### 5. **Code Coverage**
+![UITests](./assets/coverage.png)
 ## Installation
 
 Clone this repository:
