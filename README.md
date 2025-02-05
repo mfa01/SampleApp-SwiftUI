@@ -22,6 +22,9 @@
 ### 3. **Sort Options**
 ![Sort Options](./assets/sort_options.png)
 
+### 3. **Sort Options**
+![Details Screen](./assets/details_screen.png)
+
 ## Installation
 
 1. Clone this repository:
